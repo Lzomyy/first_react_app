@@ -1,0 +1,7 @@
+.left,
+.right {
+    width: 100px;
+    height: 4px;
+    background-color: #2C3E50;
+    margin-inline: 15px;
+}
